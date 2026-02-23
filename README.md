@@ -3,7 +3,7 @@
 ### AI-Powered Digital Learning Analytics Dashboard
 
 🔗 **Live Application:**\
-https://learnsight-ai-alvcod3mvcytlmxcgxdcma.streamlit.app/
+https://learnsight-ai.streamlit.app/
 
 💼 **LinkedIn:**\
 https://www.linkedin.com/in/kuzhalvendhan-m/
