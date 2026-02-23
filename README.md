@@ -98,7 +98,7 @@ educational data.
 ## 🌍 Live Demo
 
 Access the deployed application here:\
-👉 https://learnsight-ai-alvcod3mvcytlmxcgxdcma.streamlit.app/
+👉 https://learnsight-ai.streamlit.app/
 
 ------------------------------------------------------------------------
 
